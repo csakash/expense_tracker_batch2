@@ -1,0 +1,89 @@
+{
+    "accessKey": "6a28b92c-9657-11ed-83d7-acde48001122",
+    "secretKey": "2c8d811a-9fab-450c-a0d0-a7ef0ebc72da",
+    "item_types": [
+        "Food",
+        "Beverages",
+        "Clothing",
+        "Stationaries",
+        "Electronic Devices",
+        "Wearables"
+    ],
+    "users": [
+        {
+            "name": "Akash Munshi",
+            "email": "akashmunshi07@gmail.com",
+            "password": "123456",
+            "username": "akash_munshi",
+            "purchases": {
+                "2023-01-18": [
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 15:52:09.171739+05:30"
+                    },
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 15:52:55.056632+05:30"
+                    },
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 15:56:15.926658+05:30"
+                    }
+                ],
+                "2023-01-17": [
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 15:52:09.171739+05:30"
+                    },
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 15:52:55.056632+05:30"
+                    },
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 15:56:15.926658+05:30"
+                    }
+                ],
+                "2023-01-16": [
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 15:52:09.171739+05:30"
+                    },
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 15:52:55.056632+05:30"
+                    },
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 15:56:15.926658+05:30"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Avijit",
+            "email": "avijit@gmail.com",
+            "password": "123456",
+            "username": "avijit",
+            "purchases": {}
+        }
+    ]
+}
